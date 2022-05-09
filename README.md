@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sachalchandio
+- 👀 I’m interested in Ruby on Rails
+- 🌱 I’m currently learning React Native, GraphQL and FireBase
+- 💞️ I’m looking to collaborate on Electomart.com
+- 📫 you can reach me @ sachalchandio@gmail.com
