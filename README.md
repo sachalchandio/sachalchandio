@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachalchandio
+- 👋 Hi, I’m Sachal Chandio
 - 👀 I’m interested in Ruby on Rails
 - 🌱 I’m currently learning React Native, GraphQL and FireBase
 - 💞️ I’m looking to collaborate on Electomart.com
