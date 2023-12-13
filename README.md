@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachal Chandio
 - 👀 I’m interested in RailsReact and Redis stack
 - 🌱 I’m currently learning React Native, GraphQL and FireBase
-- 💞️ I’m currently working on Electomart.com native development.
+- 💞️ I’m currently working on Innov8ivs.com -> NESTJS, Angular and GraphQL. 
 - 📫 you can reach me @ sachalchandio@gmail.com
