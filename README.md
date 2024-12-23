@@ -2,10 +2,10 @@
 
 💼 Senior Cloud Data Engineer | AWS | Flask | NEST | Angular | GraphQL
 
-🚀 Expert in Rails, React, and Redis stack
+🚀 Expert in NEST, Angular, and GQL stack
 
-🌱 Continuously advancing in React Native, GraphQL, and Firebase
+🌱 Continuously advancing in React Native
 
-💻 Driving innovation at Innov8ivs.com | Specializing in NESTJS, Angular, and GraphQL
+💻 Driving innovation at innov8ivs.com
 
 📫 Reach out at: sachalchandio@gmail.com
